@@ -175,7 +175,10 @@ tr:nth-child(even) {
   background: #000000;
   color: white;
 }
-
+.fa-youtube {
+  background: #007bb5;
+  color: white;
+}
 html {
   scroll-behavior: smooth;
 }
